@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Akuearias's personal README file.
+
+For LeetCode codings: [LeetCode](https://github.com/Akuearias/LeetCode)
+
+For Courses:
+
+https://github.com/Akuearias/AppliedAlgorithms
+
