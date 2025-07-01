@@ -19,7 +19,19 @@ This is Akuearias's personal README file.
 
 For LeetCode codings: [LeetCode](https://github.com/Akuearias/LeetCode)
 
-For Courses:
+For coding for courses:
 
-https://github.com/Akuearias/AppliedAlgorithms
+[Applied Algorithms](https://github.com/Akuearias/AppliedAlgorithms)
+
+[Applied Machine Learning](https://github.com/Akuearias/AppliedML)
+
+[Machine Learning Bioinformatics](https://github.com/Akuearias/MachineLearningBioinfo)
+
+[Introduction to Bioinformatics](https://github.com/Akuearias/IntroToBioinfo)
+
+For Blogs: [Blog](https://akuearias.github.io/)
+
+[SICP](https://github.com/Akuearias/sicp)
+
+[Mechanics of Proof](https://github.com/Akuearias/MoP)
 
