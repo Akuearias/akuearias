@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Ruizhe (Akuearias) Liu
 
 <!--
 **Akuearias/akuearias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Akuearias's personal README file.
+I'm majoring in MS in Bioinformatics at IU Bloomington, with interests in AI engineering, machine learning, and software engineering.
 
-For LeetCode codings: [LeetCode](https://github.com/Akuearias/LeetCode)
+**Tech Stack**  
+- Programming Languages: Python, C/C++, JavaScript, Java, C#, R, HTML
+- Tools: Springboot, Linus, git
+- Databases: MySQL, Neo4j
 
-For coding for courses:
+📊 **GitHub Stats**  
+![Akuearias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akuearias&show_icons=true&theme=tokyonight)
 
-[Applied Algorithms](https://github.com/Akuearias/AppliedAlgorithms)
-
-[Applied Machine Learning](https://github.com/Akuearias/AppliedML)
-
-[Machine Learning Bioinformatics](https://github.com/Akuearias/MachineLearningBioinfo)
-
-[Introduction to Bioinformatics](https://github.com/Akuearias/IntroToBioinfo)
-
-For Blogs: [Blog](https://akuearias.github.io/)
-
-[SICP](https://github.com/Akuearias/sicp)
-
-[Mechanics of Proof](https://github.com/Akuearias/MoP)
+📫 **Connect with me**  
+[Blog]([https://akuearias.github.io/]) | [LinkedIn]([https://www.linkedin.com/in/ruizhe-liu-b59299333/]) | akuearias@gmail.com | ruizliu@iu.edu
 
