@@ -26,5 +26,5 @@ I'm majoring in MS in Bioinformatics at IU Bloomington, with interests in AI eng
 ![Akuearias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akuearias&show_icons=true&theme=tokyonight)
 
 📫 **Connect with me**  
-[Blog]([https://akuearias.github.io/]) | [LinkedIn]([https://www.linkedin.com/in/ruizhe-liu-b59299333/]) | akuearias@gmail.com | ruizliu@iu.edu
+[Blog]((https://akuearias.github.io/)) | [LinkedIn]((https://www.linkedin.com/in/ruizhe-liu-b59299333/)) | akuearias@gmail.com | ruizliu@iu.edu
 
