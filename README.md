@@ -19,7 +19,7 @@ I'm majoring in MS in Bioinformatics at IU Bloomington, with interests in AI eng
 
 **Tech Stack**  
 - Programming Languages: Python, C/C++, JavaScript, Java, C#, R, HTML
-- Tools: Springboot, Linus, git
+- Tools: Springboot, Linux, git
 - Databases: MySQL, Neo4j
 
 📊 **GitHub Stats**  
